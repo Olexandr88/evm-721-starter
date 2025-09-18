@@ -62,5 +62,5 @@ Now you have a test contract deployed!
 Next steps:
 
 * interact with the contract via etherscan by navigating to the writeContract tab on goerli.etherscan.com. Maybe try updating the baseUri?
-* add crossmint support! It's super easy! https://docs.crossmint.io/docs
+* add crossmint support! It's super easy! https://docs.crossmint.com/introduction/about-crossmint
 * you'll also need to deploy the actual metadata to IPFS 
